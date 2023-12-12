@@ -14,7 +14,7 @@ Dentre as funcionalidades, espera-se que seja possível:
 - [x] O jogo deve possuir pontuação
 
 ### ☕ Observações
-Não haverá a persistência em banco de dados.
+Para executar o jogo é necessá instalar a dependência do prompt-sync: **npm install**
 
 ### ❤️ Resultado final
 
