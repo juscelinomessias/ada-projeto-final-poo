@@ -17,6 +17,4 @@ Dentre as funcionalidades, espera-se que seja possível:
 Para executar o jogo é necessá instalar a dependência do prompt-sync: **npm install**
 
 ### ❤️ Resultado final
-
-
-
+https://github.com/juscelinomessias/ada-projeto-final-poo/assets/20049294/19ac4f02-4c54-43d4-8189-f1cac961457a
